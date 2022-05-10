@@ -1,2 +1,2 @@
-# Desafio-DIO-Git-GitHub
-Criação do Projeto do Git
+Projeto Git 
+Teste de apreendisado do curso da DIO
